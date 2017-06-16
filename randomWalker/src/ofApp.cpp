@@ -41,7 +41,7 @@ void ofApp::update() {
 void ofApp::draw() {
 	ofBackground(0, 0, 0);
 	ofEnableAlphaBlending();
-	ofSetColor(127, 0, 0); // a dark red  
+	ofSetColor(103, 0, 0); // a dark red  
 	bHole_top.draw(0, 0);
 	ofDisableAlphaBlending();
 

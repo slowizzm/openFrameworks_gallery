@@ -1,0 +1,12 @@
+﻿  ofApp.cpp
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+src\ofApp.cpp(5): warning C4101: 'ADD': unreferenced local variable
+  randomWalker.vcxproj -> C:\Users\Admin\Documents\of_v0.9.8_vs_release\apps\myApps\randomWalker\bin\randomWalker_debug.exe
+  randomWalker.vcxproj -> bin\randomWalker_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Admin\Documents\of_v0.9.8_vs_release\export\vs\x64\

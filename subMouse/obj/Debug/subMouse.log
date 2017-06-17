@@ -1,0 +1,11 @@
+﻿  Izzm.cpp
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(320): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(325): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(970): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(971): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\of_v0.9.8_vs_release\libs\openFrameworks\math\ofMatrix4x4.h(972): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  subMouse.vcxproj -> C:\Users\Admin\Documents\of_v0.9.8_vs_release\apps\myApps\subMouse\bin\subMouse_debug.exe
+  subMouse.vcxproj -> bin\subMouse_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Admin\Documents\of_v0.9.8_vs_release\export\vs\x64\

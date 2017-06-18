@@ -42,6 +42,8 @@ void Izzm::display()
 		ofSetLineWidth(3);
 		ofSetColor(255-dBait,33,133+dBait);
 		ofNoFill();
+		ofSetColor(255, 255, 0);
+		ofFill();
 		ofEllipse(pos.x, pos.y, dBait/33,dBait/33);
 	}
 }

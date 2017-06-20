@@ -18,7 +18,7 @@ void Izzm::update()
 	dBait = ofDist(pos.x, pos.y, mouse.x, mouse.y);
 	
 	acc = mouse -= pos;
-	acc *= ofMap(dBait, 0,ofGetWidth()*2,0.00003,33);
+	acc *= ofMap(dBait, 0,ofGetWidth()*2,0.00003,0.03);
 	acc.limit(33);
 	vel.normalize();
 	vel += acc;

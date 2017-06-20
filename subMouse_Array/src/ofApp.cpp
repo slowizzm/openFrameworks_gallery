@@ -64,7 +64,7 @@ void ofApp::mousePressed(int _x, int _y, int button)
 		izzms.push_back(i);
 		i->setup(izzm.mouse.x, izzm.mouse.y, 0.1);
 
-		if (izzms.size() >= 7) 
+		if (izzms.size() >= 100) 
 		{
 			izzms.erase(izzms.begin());
 		}
